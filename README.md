@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohsinali Vijapura</h1>
-<h3 align="center">I am a passionate software engineer with a strong foundation in data structures and algorithms and a sincere love for programming. As a full stack developer, I work with a diverse tech stack including React, Ruby on Rails, GraphQL, PostgreSQL, MongoDB, Node.js, and Express.js.</h3>
+<h1 align="center">Hi there, I'm Mohsinali Vijapura 👋</h1>
+<h3 >I am a passionate software engineer with a strong foundation in data structures and algorithms and a sincere love for programming. As a full stack developer, I work with a diverse tech stack including React, Ruby on Rails, GraphQL, PostgreSQL, MongoDB, Node.js, and Express.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
